@@ -3,9 +3,11 @@
 #include <esp_log.h>
 #include <esp_err.h>
 
-#define LED_PIN_RED (6)
-#define LED_PIN_GREEN (5)
-#define LED_PIN_BLUE (4)
+#define LED_PIN_RED (41)
+#define LED_PIN_GREEN (40)
+#define LED_PIN_BLUE (42)
+
+
 
 #define LEDC_MODE LEDC_LOW_SPEED_MODE
 
